@@ -1,0 +1,67 @@
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\practica.exe
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\practica.pdb
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\obj\x86\Debug\practica.exe
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\obj\x86\Debug\practica.pdb
+c:\users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\cuervo.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\fondo.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\aguilarabiosa.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\cuervo.png
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\fondo.png
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\cuadrado.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\textures\cuadrado.png
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Fuentes\font.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.xnb
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.wma
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.wav
+C:\Users\usser\documents\visual studio 2010\Projects\practica\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.mp3
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuadrado.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuervo.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\fondo.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\aguilarabiosa.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Button.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Fuentes\font.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\gameOver.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.xnb
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.wma
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuadrado.png
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuervo.png
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\textures\fondo.png
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.wav
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.mp3
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\practica.exe
+C:\Users\usser\Desktop\juegoxna\practica\practica\bin\x86\Debug\practica.pdb
+C:\Users\usser\Desktop\juegoxna\practica\practica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usser\Desktop\juegoxna\practica\practica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\usser\Desktop\juegoxna\practica\practica\obj\x86\Debug\practica.exe
+C:\Users\usser\Desktop\juegoxna\practica\practica\obj\x86\Debug\practica.pdb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuadrado.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuervo.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\fondo.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\aguilarabiosa.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Button.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\MainMenu.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Fuentes\font.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\gameOver.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\YouWin.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.xnb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.wma
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuadrado.png
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\cuervo.png
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\textures\fondo.png
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Aguilas_efecto.wav
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\Content\Sonidos\Mar.mp3
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\practica.exe
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\practica.pdb
+C:\FUENTESGIT2017\juegoxna\practica\practica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\FUENTESGIT2017\juegoxna\practica\practica\obj\x86\Debug\practica.exe
+C:\FUENTESGIT2017\juegoxna\practica\practica\obj\x86\Debug\practica.pdb
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\practica.exe.manifest
+C:\FUENTESGIT2017\juegoxna\practica\practica\bin\x86\Debug\practica.application
+C:\FUENTESGIT2017\juegoxna\practica\practica\obj\x86\Debug\practica.exe.manifest
+C:\FUENTESGIT2017\juegoxna\practica\practica\obj\x86\Debug\practica.application
